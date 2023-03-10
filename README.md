@@ -1,6 +1,6 @@
 ## REST API / Web Service Stress Tester
 
-This is a simple tool to stress test REST API / Web Service.
+This is a simple tool to stress test your REST API / Web Service.
 
 It is written in Python and uses `aiohttp` to make asynchronous requests, along with `uvloop` to speed up the event loop.
 
