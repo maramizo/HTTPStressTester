@@ -6,4 +6,4 @@ It is written in Python and uses `aiohttp` to make asynchronous requests, along 
 
 Use `python3 main.py -h` to see the help message and get started.
 
-![Preview](https://imgur.com/GPJgCxJ)
+![Preview](https://i.imgur.com/GPJgCxJ.gif)
